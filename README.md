@@ -15,3 +15,6 @@ AI-powered sales assistant for clothing stores.
 - FastAPI
 - PostgreSQL
 - OpenAI
+
+
+
